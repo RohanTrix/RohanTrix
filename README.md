@@ -9,9 +9,9 @@ Hi, I am Computer Science student at Vellore Institute of Technology exploring D
   <a href="https://twitter.com/sirohia_rohan">
     <img align="left" alt="Rohan Sirohia | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
+  <a href="https://www.instagram.com/thedudethatcode/rohansirohia">
     <img align="left" alt="Rohan Sirohia | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
-  <a href="mailto:shubhamdeepjha@gmail.com">
+  <a href="mailto:rohanyeahyeah@gmail.com">
     <img align="left" alt="Sirohia | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
