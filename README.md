@@ -1,5 +1,7 @@
 # Rohan Sirohia&nbsp;<img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px">
 Hi, I am Computer Science student at Vellore Institute of Technology exploring Data Science and Machine Learning. I am passionate about coding and development of Artificial Intelligence. I am also interested in Business Analytics.
+
+![RohanTrix's github stats](https://github-readme-stats.vercel.app/api?username=RohanTrix&show_icons=true)
 ## Get in touch:
 <br>
 
