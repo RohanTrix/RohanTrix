@@ -1,7 +1,7 @@
 # Rohan Sirohia&nbsp;<img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px"> 
 ![](https://visitor-badge.glitch.me/badge?page_id=RohanTrix.RohanTrix) ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ---
-<img src="https://media.giphy.com/media/y3wBjXMffuFjy/giphy.gif"> 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/y3wBjXMffuFjy/giphy.gif" width="300px" height="300px" />
 Hi, I am Computer Science student at Vellore Institute of Technology exploring Data Science and Machine Learning. I am passionate about coding and development of Artificial Intelligence. I am also interested in Business Analytics.
 
 ![](https://github-readme-stats.vercel.app/api?username=RohanTrix&show_icons=true)
