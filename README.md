@@ -17,7 +17,7 @@ Hi, I am Computer Science student at Vellore Institute of Technology exploring D
 - 📝[Resume](https://drive.google.com/file/d/17iVaL2ACm8TxjsRJPrcJczY32utRKhFF/view?usp=sharing)
 
 
-![](https://github-readme-stats.vercel.app/api?username=RohanTrix&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=RohanTrix&show_icons=true&theme=radical)
 ## Get in touch:
 <br>
 
