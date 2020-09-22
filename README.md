@@ -16,8 +16,8 @@ Hi, I am Computer Science student at Vellore Institute of Technology exploring D
 - 📫 How to reach me: rohanyeahyeah@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/17iVaL2ACm8TxjsRJPrcJczY32utRKhFF/view?usp=sharing)
 
-
 ![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=RohanTrix&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanTrix&layout=compact&theme=dark)
+
 ## Get in touch:
 <br>
 
