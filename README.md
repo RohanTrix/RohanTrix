@@ -7,6 +7,24 @@ Hi, I am Computer Science student at Vellore Institute of Technology exploring D
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"> </code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 ---
 
+<p align="center">
+  
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" style="vertical-align:top; margin:4px">    
+</p>
+
+---
 **About Me:**
 
 - 👨‍💻 I’m currently working on AI for Trading
