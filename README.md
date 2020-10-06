@@ -18,7 +18,7 @@ Hi, I am Computer Science student at Vellore Institute of Technology exploring D
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" style="vertical-align:top; margin:4px">    
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" style="vertical-align:top; margin:4px">    
 </p>
 
 ---
