@@ -23,14 +23,18 @@ Hi, I am Computer Science student at Vellore Institute of Technology exploring D
 
 ---
 
-**About Me:**
+<!-- gif Image -->
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
+**About Me:**
 - 👨‍💻 I’m currently working on AI for Trading
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Code and memes are my thing; 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">I’m looking to collaborate on a Time Series Analysis research 🤝
 - <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px" height="30px"> Currently working on a Data Analysis Template
 - 📫 How to reach me: rohanyeahyeah@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/17iVaL2ACm8TxjsRJPrcJczY32utRKhFF/view?usp=sharing)
+
+
 
 ![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=RohanTrix&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanTrix&layout=compact&theme=dark)
 
