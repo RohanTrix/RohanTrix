@@ -26,7 +26,7 @@ Hi, I am Computer Science student at Vellore Institute of Technology exploring D
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
-**About Me:**
+**About Me:** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👨‍💻 I’m currently working on AI for Trading
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Code and memes are my thing; 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">I’m looking to collaborate on a Time Series Analysis research 🤝
