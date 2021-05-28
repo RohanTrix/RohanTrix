@@ -10,9 +10,7 @@ Hi, I am Computer Science student at Vellore Institute of Technology exploring D
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
