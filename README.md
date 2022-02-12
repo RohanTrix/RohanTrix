@@ -30,12 +30,11 @@ Hi, I am Computer Science student at Vellore Institute of Technology exploring D
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Code and memes are my thing; 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">I’m looking to collaborate in Kaggle Competitions 🤝
 - 📫 How to reach me: rohanyeahyeah@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/17iVaL2ACm8TxjsRJPrcJczY32utRKhFF/view?usp=sharing)
 
 
 
 ![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=RohanTrix&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanTrix&layout=compact&theme=dark)
-
+[![Rohan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RohanTrix&theme=xcode)](https://git.io/RohanTrix) 
 ## Get in touch:
 <br>
 
