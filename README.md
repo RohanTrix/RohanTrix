@@ -34,7 +34,7 @@ Hi, I am Computer Science student at Vellore Institute of Technology exploring D
 
 
 ![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=RohanTrix&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanTrix&layout=compact&theme=dark)
-[![Rohan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RohanTrix&theme=xcode)](https://git.io/RohanTrix) 
+
 ## Get in touch:
 <br>
 
