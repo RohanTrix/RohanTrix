@@ -4,22 +4,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/y3wBjXMffuFjy/giphy.gif" width="300px" height="300px" />
 Hi, I am Computer Science student at Vellore Institute of Technology exploring Data Science and Machine Learning. I am passionate about coding and development of Artificial Intelligence. I am also interested in Business Analytics.
 
-<p align="center">
-  
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" style="vertical-align:top; margin:4px">    
-</p>
-
 ---
 
 <!-- gif Image -->
