@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=RohanTrix.RohanTrix)
 ---
 <img align="right" alt="GIF" src="https://media.giphy.com/media/y3wBjXMffuFjy/giphy.gif" width="300px" height="300px" />
-Hi, I am Computer Science student at Vellore Institute of Technology exploring Data Science and Machine Learning. I am passionate about coding and development of Artificial Intelligence. I am also interested in Business Analytics.
+SDE 1 @ Cleartrip (Flipkart)
 
 ## Get in touch:
 <br>
