@@ -1,7 +1,7 @@
 # Rohan Sirohia&nbsp;<img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px"> 
 ![](https://visitor-badge.glitch.me/badge?page_id=RohanTrix.RohanTrix)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/y3wBjXMffuFjy/giphy.gif" width="300px" height="300px" />
-SDE 1 @ Cleartrip (Flipkart)
+SWE @ Omio
 
 ## Get in touch:
 <br>
